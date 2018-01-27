@@ -50,7 +50,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
             useriq.identify(user_id, {
               user_name: 'INSERT_USER_NAME_HERE',
               account_id: account_id,
-              account_name: 'INSERT_ACCOUNT_NAME_HERE',
+              account_name: 'ashwin',
               user_email: 'INSERT_USER_EMAIL_HERE',
               signup_date: 'INSERT_USER_SIGNUP_DATE_HERE_YYYY-MM-DD',
             })
