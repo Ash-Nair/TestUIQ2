@@ -48,7 +48,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
             var account_id = "INSERT_YOUR_APP_ACCOUNT_ID_HERE"
             useriq.setSiteId(useriq_site_id)
             useriq.identify(user_id, {
-              user_name: 'INSERT_USER_NAME_HERE',
+              user_name: 'ashwin',
               account_id: account_id,
               account_name: 'ashwin',
               user_email: 'ashwin.nair@useriq.com',
